@@ -10,13 +10,13 @@
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C993%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C993%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 223.5 kB Used in GitHub's Storage 
+> 📦 223.9 kB Used in GitHub's Storage 
  > 
 > 🏆 79 Contributions in the Year 2025
  > 
@@ -90,7 +90,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kimsengduong/kimsengduong/master/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 15:13:38 UTC
+ Last Updated on 02/05/2025 15:34:57 UTC
 <!--END_SECTION:waka-->
 
 ## 👨‍💻 Full Stack Engineer & System Architect
