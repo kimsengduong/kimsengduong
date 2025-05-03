@@ -1,5 +1,9 @@
 # Kimseng DUONG 👨‍💻
 
+## 👨‍💻 Full Stack Engineer & System Architect
+
+Passionate about building scalable, secure, and high-performance systems. Focused on system architecture, API development, and automation, with strong expertise in cloud deployment, DevOps practices, and containerized applications.
+
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kimsengduong)
@@ -82,10 +86,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
  Last Updated on 03/05/2025 00:21:08 UTC
 <!--END_SECTION:waka-->
-
-## 👨‍💻 Full Stack Engineer & System Architect
-
-With over 4 years of experience building scalable, secure, and high-performance systems. I specialize in system architecture, API development, and automation with expertise in cloud deployment, DevOps, and containerized applications.
 
 ## 🔧 Tech Stack
 
