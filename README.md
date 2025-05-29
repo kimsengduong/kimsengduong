@@ -15,7 +15,7 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C018%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C020%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
@@ -23,7 +23,7 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 
 > 📦 222.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 89 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -58,17 +58,17 @@ Sunday                   16 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        ███████████████░░░░░░░░░░   61.53 % 
-Python                   56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-INI                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               5 hrs 2 mins        ███████████████████████░░   91.64 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2025 00:22:40 UTC
+ Last Updated on 29/05/2025 00:22:36 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
