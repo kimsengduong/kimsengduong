@@ -15,15 +15,13 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C024%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C024%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 222.3 kB Used in GitHub's Storage 
- > 
-> 🏆 89 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -58,13 +56,14 @@ Sunday                   16 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+TypeScript               2 mins              ██████████████░░░░░░░░░░░   55.82 % 
+Other                    2 mins              ███████████░░░░░░░░░░░░░░   44.18 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +79,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025 01:26:34 UTC
+ Last Updated on 15/06/2025 01:45:59 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
