@@ -23,8 +23,6 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 
 > 📦 222.6 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -80,7 +78,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2025 00:25:04 UTC
+ Last Updated on 23/06/2025 00:24:46 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
