@@ -58,13 +58,13 @@ Sunday                   16 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +80,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 00:26:10 UTC
+ Last Updated on 02/07/2025 00:22:45 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
