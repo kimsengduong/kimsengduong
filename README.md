@@ -15,7 +15,7 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C028%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C031%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
@@ -58,15 +58,16 @@ Sunday                   16 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       ██████████████░░░░░░░░░░░   57.54 % 
-Text                     1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   35.90 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Python                   4 hrs 45 mins       ███████████████████░░░░░░   76.17 % 
+Text                     1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +83,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2025 00:24:27 UTC
+ Last Updated on 28/10/2025 00:21:52 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
