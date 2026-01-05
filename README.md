@@ -15,6 +15,8 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C041%20hrs%2041%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.76%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -29,6 +31,42 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                212 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+🌆 Daytime                415 commits         ██████████░░░░░░░░░░░░░░░   40.25 % 
+🌃 Evening                185 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌙 Night                  219 commits         █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Tuesday                  212 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Wednesday                199 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Thursday                 245 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Saturday                 39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Sunday                   16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Phnom_Penh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -42,7 +80,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 00:27:48 UTC
+ Last Updated on 05/01/2026 00:26:43 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
