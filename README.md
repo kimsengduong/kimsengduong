@@ -15,7 +15,7 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C086%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -58,13 +58,14 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              ███████████████░░░░░░░░░░   61.62 % 
+Code                     3 mins              ██████████░░░░░░░░░░░░░░░   38.38 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,7 +81,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2026 00:56:39 UTC
+ Last Updated on 11/06/2026 00:56:27 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
