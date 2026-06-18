@@ -58,14 +58,13 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-HTML                     8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              ███████████████░░░░░░░░░░   61.62 % 
-Code                     3 mins              ██████████░░░░░░░░░░░░░░░   38.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +80,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2026 00:59:36 UTC
+ Last Updated on 18/06/2026 00:59:03 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
