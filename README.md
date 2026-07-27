@@ -15,7 +15,7 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C092%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C093%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -58,16 +58,16 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 29 mins       ████████████████████░░░░░   79.31 % 
-Python                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Image (svg)              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+TypeScript               3 hrs 13 mins       █████████████████████░░░░   83.11 % 
+Python                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Image (svg)              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +83,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 02:42:36 UTC
+ Last Updated on 27/07/2026 02:51:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
