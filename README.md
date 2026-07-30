@@ -60,37 +60,35 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        █████████████████████░░░░   85.22 % 
-Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Image (svg)              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+TypeScript               1 hr 45 mins        ████████████████████████░   94.61 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 1 hr 51 mins (100.0%)
 
-✍️ 1,541 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,120 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 53,223,378 Input Tokens, 143,456 Output Tokens
+🔤 21,534,719 Input Tokens, 67,345 Output Tokens
 
-💵 $253.00 Estimated AI Cost This Week
+💵 $103.71 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 144 AI Prompts
+🧠 9 AI Sessions, 57 AI Prompts
 
-GPT                      1,724 lines         █████████████████████████   100.00 % 
+GPT                      1,206 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,739 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📚 Verbose Prompter — average 5,544 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -107,7 +105,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 02:33:22 UTC
+ Last Updated on 30/07/2026 02:15:39 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
