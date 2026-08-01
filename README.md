@@ -60,35 +60,35 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               51 mins             ███████████████████████░░   93.22 % 
-Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+TypeScript               44 mins             █████████████████████████   99.00 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (100.0%)
+⏱ AI Coding Time: 44 mins (100.0%)
 
-✍️ 760 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 660 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,089,482 Input Tokens, 36,854 Output Tokens
+🔤 4,377,943 Input Tokens, 25,697 Output Tokens
 
-💵 $27.46 Estimated AI Cost This Week
+💵 $19.38 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 23 AI Prompts
+🧠 2 AI Sessions, 16 AI Prompts
 
-GPT                      833 lines           █████████████████████████   100.00 % 
+GPT                      697 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,976 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 5,028 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -105,7 +105,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 02:44:32 UTC
+ Last Updated on 01/08/2026 02:42:55 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
