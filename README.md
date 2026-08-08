@@ -15,6 +15,10 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C018%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%202%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -29,6 +33,48 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                220 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+🌆 Daytime                428 commits         ██████████░░░░░░░░░░░░░░░   40.23 % 
+🌃 Evening                193 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+🌙 Night                  223 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Tuesday                  217 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Wednesday                206 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Thursday                 251 commits         ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Friday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Saturday                 43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Sunday                   20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Phnom_Penh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -42,7 +88,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:37:41 UTC
+ Last Updated on 08/08/2026 01:28:27 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
