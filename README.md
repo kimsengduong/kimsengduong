@@ -15,9 +15,9 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C018%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C020%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -60,19 +60,37 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               47 mins             ██████████████░░░░░░░░░░░   56.34 % 
+Python                   37 mins             ███████████░░░░░░░░░░░░░░   43.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 4 mins         ███████████████████░░░░░░   76.09 % 
+VS Code                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 25 mins (100.0%)
+
+✍️ 616 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 576,499 Input Tokens, 46,556 Output Tokens
+
+💵 $6.86 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 33 AI Prompts
+
+GPT                      619 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,005 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +106,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 01:13:47 UTC
+ Last Updated on 25/08/2026 01:12:13 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
