@@ -60,37 +60,19 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               47 mins             ██████████████░░░░░░░░░░░   56.34 % 
-Python                   37 mins             ███████████░░░░░░░░░░░░░░   43.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 4 mins         ███████████████████░░░░░░   76.09 % 
-VS Code                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (100.0%)
-
-✍️ 616 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 576,499 Input Tokens, 46,556 Output Tokens
-
-💵 $6.86 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 33 AI Prompts
-
-GPT                      619 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,005 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +88,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 03:51:35 UTC
+ Last Updated on 01/09/2026 03:44:38 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
