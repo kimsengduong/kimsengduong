@@ -15,9 +15,9 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C020%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C022%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -60,19 +60,40 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 9 mins         ██████████████░░░░░░░░░░░   54.35 % 
+Python                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+JavaScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 22 mins        ████████████████░░░░░░░░░   64.44 % 
+VS Code                  45 mins             █████████░░░░░░░░░░░░░░░░   35.56 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 35 mins (74.36%)
+
+✍️ 903 lines written by AI, 455 lines written by hand (66.49% AI-written)
+
+🔤 257,264 Input Tokens, 63,672 Output Tokens
+
+💵 $16.89 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 18 AI Prompts
+
+GPT                      903 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 66.49% of written lines came from AI
+📚 Verbose Prompter — average 1,695 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 76.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +109,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 03:16:58 UTC
+ Last Updated on 13/09/2026 03:21:02 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
