@@ -60,40 +60,19 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ██████████████░░░░░░░░░░░   54.35 % 
-Python                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-JavaScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 22 mins        ████████████████░░░░░░░░░   64.44 % 
-VS Code                  45 mins             █████████░░░░░░░░░░░░░░░░   35.56 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 35 mins (74.36%)
-
-✍️ 903 lines written by AI, 455 lines written by hand (66.49% AI-written)
-
-🔤 257,264 Input Tokens, 63,672 Output Tokens
-
-💵 $16.89 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 18 AI Prompts
-
-GPT                      903 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 66.49% of written lines came from AI
-📚 Verbose Prompter — average 1,695 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 76.09% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +88,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 03:17:43 UTC
+ Last Updated on 20/09/2026 03:35:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
