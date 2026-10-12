@@ -15,9 +15,9 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C022%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C022%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -60,19 +60,38 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               19 mins             ███████████░░░░░░░░░░░░░░   42.02 % 
+Python                   17 mins             █████████░░░░░░░░░░░░░░░░   37.68 % 
+CSS                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             45 mins             █████████████████████████   98.66 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 45 mins (100.0%)
+
+✍️ 351 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 113,558 Input Tokens, 20,213 Output Tokens
+
+💵 $4.37 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 8 AI Prompts
+
+GPT                      351 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,243 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +107,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 04:12:18 UTC
+ Last Updated on 12/10/2026 04:30:26 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
