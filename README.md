@@ -15,17 +15,17 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C022%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C025%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 223.3 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2026
+> 🏆 40 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,20 +36,20 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                220 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-🌆 Daytime                428 commits         ██████████░░░░░░░░░░░░░░░   40.23 % 
-🌃 Evening                193 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-🌙 Night                  223 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+🌞 Morning                220 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+🌆 Daytime                430 commits         ██████████░░░░░░░░░░░░░░░   40.34 % 
+🌃 Evening                193 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+🌙 Night                  223 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Tuesday                  217 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Wednesday                206 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Thursday                 251 commits         ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Friday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Saturday                 43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Monday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Tuesday                  217 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Wednesday                206 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Thursday                 251 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Friday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Saturday                 43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 Sunday                   20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 
@@ -60,54 +60,56 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               19 mins             ███████████░░░░░░░░░░░░░░   42.02 % 
-Python                   17 mins             █████████░░░░░░░░░░░░░░░░   37.68 % 
-CSS                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+TypeScript               1 hr 42 mins        ████████████░░░░░░░░░░░░░   49.67 % 
+Python                   42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Codex Vscode             45 mins             █████████████████████████   98.66 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Codex Vscode             3 hrs 22 mins       █████████████████████████   98.47 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 25 mins (99.98%)
 
-✍️ 351 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,309 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 113,558 Input Tokens, 20,213 Output Tokens
+🔤 830,747 Input Tokens, 136,669 Output Tokens
 
-💵 $4.37 Estimated AI Cost This Week
+💵 $46.19 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 3 AI Sessions, 65 AI Prompts
 
-GPT                      351 lines           █████████████████████████   100.00 % 
+GPT                      2,320 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,243 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 455 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 
 
- Last Updated on 12/10/2026 04:30:26 UTC
+ Last Updated on 13/10/2026 05:38:03 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
