@@ -15,9 +15,9 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C032%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C033%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -60,41 +60,41 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.89 % 
-Python                   1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-CSS                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+TypeScript               3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.63 % 
+Python                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+JavaScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+CSS                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 7 mins        ███████████████████████░░   90.67 % 
-VS Code                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Codex Vscode             6 hrs 43 mins       ██████████████████████░░░   88.23 % 
+VS Code                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 
 💻 Operating System: 
-Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 45 mins (97.0%)
+⏱ AI Coding Time: 7 hrs 19 mins (96.05%)
 
-✍️ 8,044 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 6,101 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 2,619,634 Input Tokens, 494,708 Output Tokens
+🔤 2,042,167 Input Tokens, 386,231 Output Tokens
 
-💵 $86.36 Estimated AI Cost This Week
+💵 $50.99 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 158 AI Prompts
+🧠 8 AI Sessions, 106 AI Prompts
 
-GPT                      7,604 lines         ███████████████████████░░   93.76 % 
-Github-Copilot           506 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+GPT                      5,650 lines         ███████████████████████░░   91.78 % 
+Github-Copilot           506 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 150 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 1.89% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📝 Concise Prompter — average 191 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 2.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +110,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 03:24:52 UTC
+ Last Updated on 20/10/2026 03:33:42 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
