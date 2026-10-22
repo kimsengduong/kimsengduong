@@ -60,41 +60,40 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       ███████████░░░░░░░░░░░░░░   42.63 % 
-Python                   1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-JavaScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-CSS                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+TypeScript               2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.02 % 
+Python                   1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+JavaScript               53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 36 mins       ██████████████████████░░░   88.19 % 
-VS Code                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Codex Vscode             4 hrs 36 mins       ████████████████████████░   96.74 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Windows                  7 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 11 mins (96.13%)
+⏱ AI Coding Time: 4 hrs 40 mins (97.9%)
 
-✍️ 6,162 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 5,049 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 1,926,938 Input Tokens, 387,879 Output Tokens
+🔤 1,527,733 Input Tokens, 333,208 Output Tokens
 
-💵 $49.02 Estimated AI Cost This Week
+💵 $23.77 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 105 AI Prompts
+🧠 6 AI Sessions, 64 AI Prompts
 
-GPT                      5,711 lines         ███████████████████████░░   91.86 % 
-Github-Copilot           506 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+GPT                      5,104 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 188 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 2.43% of changed lines were hand-edited
+📝 Concise Prompter — average 160 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 2.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +109,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 03:27:37 UTC
+ Last Updated on 22/10/2026 03:26:31 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
