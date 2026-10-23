@@ -60,40 +60,37 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.02 % 
-Python                   1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-JavaScript               53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+TypeScript               9 mins              ███████████░░░░░░░░░░░░░░   45.97 % 
+Other                    7 mins              █████████░░░░░░░░░░░░░░░░   35.27 % 
+Python                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 36 mins       ████████████████████████░   96.74 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Codex Vscode             20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 40 mins (97.9%)
+⏱ AI Coding Time: 20 mins (100.0%)
 
-✍️ 5,049 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 76 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,527,733 Input Tokens, 333,208 Output Tokens
+🔤 378,744 Input Tokens, 17,023 Output Tokens
 
-💵 $23.77 Estimated AI Cost This Week
+💵 $12.55 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 64 AI Prompts
+🧠 3 AI Sessions, 9 AI Prompts
 
-GPT                      5,104 lines         █████████████████████████   100.00 % 
+GPT                      76 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 160 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 2.91% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 22 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +106,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 03:26:31 UTC
+ Last Updated on 23/10/2026 03:31:46 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
