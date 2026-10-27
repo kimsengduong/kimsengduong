@@ -60,36 +60,35 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               9 mins              ████████████████░░░░░░░░░   62.34 % 
-Python                   3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+TypeScript               1 min               ████████████████░░░░░░░░░   65.42 % 
+Python                   0 secs              █████████░░░░░░░░░░░░░░░░   34.58 % 
 
 🔥 Editors: 
-Codex Vscode             15 mins             █████████████████████████   100.00 % 
+Codex Vscode             1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
-✍️ 76 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 61 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 149,597 Input Tokens, 12,696 Output Tokens
+🔤 9,875 Input Tokens, 4,717 Output Tokens
 
-💵 $7.73 Estimated AI Cost This Week
+💵 $1.71 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-GPT                      76 lines            █████████████████████████   100.00 % 
+GPT                      61 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 22 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 6 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -106,7 +105,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 03:23:30 UTC
+ Last Updated on 27/10/2026 03:51:25 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
