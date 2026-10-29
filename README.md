@@ -15,7 +15,7 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C033%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C033%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2018%20mins-blue?style=flat)
 
@@ -60,24 +60,24 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Text                     16 mins             ███████████░░░░░░░░░░░░░░   44.64 % 
-TypeScript               11 mins             ████████░░░░░░░░░░░░░░░░░   30.65 % 
-Bash                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Text                     16 mins             ███████████░░░░░░░░░░░░░░   43.63 % 
+TypeScript               11 mins             ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Bash                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Image (svg)              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-Codex Vscode             29 mins             ████████████████████░░░░░   78.50 % 
-VS Code                  8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+Codex Vscode             29 mins             ███████████████████░░░░░░   76.73 % 
+VS Code                  8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (78.5%)
+⏱ AI Coding Time: 29 mins (76.73%)
 
 ✍️ 73 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -109,7 +109,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 04:10:32 UTC
+ Last Updated on 29/10/2026 04:32:44 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
