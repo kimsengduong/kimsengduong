@@ -15,9 +15,9 @@ Passionate about building scalable, secure, and high-performance systems. Focuse
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C033%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C034%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -60,40 +60,40 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Text                     16 mins             ██████████░░░░░░░░░░░░░░░   41.13 % 
-TypeScript               13 mins             ████████░░░░░░░░░░░░░░░░░   32.71 % 
-Bash                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Image (svg)              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+JavaScript               35 mins             ████████░░░░░░░░░░░░░░░░░   33.47 % 
+Text                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Bash                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+TypeScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 
 🔥 Editors: 
-Codex Vscode             30 mins             ███████████████████░░░░░░   74.23 % 
-VS Code                  10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+Codex Vscode             1 hr 34 mins        ██████████████████████░░░   89.44 % 
+VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (74.23%)
+⏱ AI Coding Time: 1 hr 34 mins (89.44%)
 
-✍️ 73 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 803 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 321,408 Input Tokens, 7,998 Output Tokens
+🔤 754,651 Input Tokens, 75,233 Output Tokens
 
-💵 $8.12 Estimated AI Cost This Week
+💵 $11.26 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 3 AI Sessions, 17 AI Prompts
 
-GPT                      73 lines            █████████████████████████   100.00 % 
+GPT                      804 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 209 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.35% of changed lines were hand-edited
+📝 Concise Prompter — average 94 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +109,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 04:32:14 UTC
+ Last Updated on 31/10/2026 04:14:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Tech Stack
